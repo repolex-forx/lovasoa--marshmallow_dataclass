@@ -1,0 +1,7 @@
+[2026-10-12T22:00:20Z] === AST ITERATION 1 START | repo=lovasoa/marshmallow_dataclass sha=5c428f49 ===
+[2026-10-12T22:00:20Z] [iter=1] PHASE START: ast repo=lovasoa/marshmallow_dataclass sha=5c428f49
+[2026-10-12T22:00:20Z] [iter=1] Building AST aggregate chunks
+[2026-10-12T22:00:34Z] [iter=1] AST chunks built count=1 triples=128767
+[2026-10-12T22:00:34Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/5c428f493ef3059246974bedf9a7d89599994b34/.complete
+[2026-10-12T22:00:34Z] [iter=1] PHASE END: ast elapsed_s=14 elapsed_min=0.2
+[2026-10-12T22:00:34Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
