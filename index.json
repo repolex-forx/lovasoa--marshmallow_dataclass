@@ -1,0 +1,11 @@
+{
+  "org": "lovasoa",
+  "repo": "marshmallow_dataclass",
+  "versions": [
+    {
+      "commit": "5c428f493ef3059246974bedf9a7d89599994b34",
+      "tag": "",
+      "parsed_at": "2026-10-12T22:02:01.072964+00:00"
+    }
+  ]
+}
