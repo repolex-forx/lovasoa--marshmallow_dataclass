@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/lovasoa/marshmallow_dataclass/commit/5c428f493ef3059246974bedf9a7d89599994b34",
       "git:hexsha": "5c428f493ef3059246974bedf9a7d89599994b34",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T22:02:01.072236+00:00"
     },
     {
       "@id": "https://repolex.ai/r/lovasoa/marshmallow_dataclass/commit/8d909646365ce06770ee92abba3082449ccc1bcd",
